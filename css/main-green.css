@@ -77,7 +77,7 @@ body.ajax-page-visible {
 }
 
 a {
-  color: #212121;
+  color: #3749ec;
   text-decoration: none;
   outline: none;
   -webkit-transition: all 0.3s ease-in-out;
@@ -649,7 +649,7 @@ body > footer .copyrights {
 }
 
 .site-title span {
-  color: #3749ec;
+  color: #353333;
 }
 
 .header.sticked .site-title {
